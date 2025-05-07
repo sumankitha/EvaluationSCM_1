@@ -3,14 +3,15 @@
     <title> HTML FILE </title>
 </head> 
 
-
 <<<<<<< HEAD
-  <h2> Bangalore Karnataka </h2>
+<body>
+   <h1> Amity University </h1>
 =======
 
 
-   <p> Name and location of the University </p>
+  <h2> Bangalore Karnataka </h2>
+<p> Name and location of the University </p>
 
 </body>
 </html>
->>>>>>> B3
+>>>>>>> B2
